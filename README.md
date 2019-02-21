@@ -1,4 +1,4 @@
-兼容多浏览器的文件下载组件
+###兼容多浏览器的文件下载组件
 If you need to save really large files bigger then the blob's size limitation or don't have
 enough RAM, then have a look at the more advanced [StreamSaver.js][7]
 that can save data directly to the hard drive asynchronously with the power of the new streams API. That will have
